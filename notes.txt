@@ -1,0 +1,13 @@
+args - (*b,*b) - make a tuple of elements that can be converted into tuples 
+kwargs - (**c, **c2) - make dictionary of dictionaries
+
+Data type built_in functions 
+str : upper, lower, find, split, strip, join, format, count 
+
+list :append, sort, count, copy, insert, remove, index, pop
+
+tuple: count, index, 
+
+dict: keys, values, update, get, pop
+
+set: add, difference, union, pop, remove
